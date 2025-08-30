@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Blogging about building a Local Good Spots service
 ---
 
