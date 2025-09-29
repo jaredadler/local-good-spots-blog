@@ -1,5 +1,5 @@
 ---
-title: "Extracting and Restaurant Metadata"
+title: "Extracting Restaurant Metadata"
 date: 2025-09-12
 ---
 
